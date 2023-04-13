@@ -88,8 +88,8 @@ function addTask(e) {
     } else {
         window.alert("Type something!");
     }
-    location.reload();
 };
+location.reload();
 
 function deleteTask(e) {
     let deleteIndex = index.indexOf(e.target.parentElement.parentElement.outerText);
