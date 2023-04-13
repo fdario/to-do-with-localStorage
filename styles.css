@@ -12,7 +12,7 @@ h1{
     text-shadow: 2px 3px 3px rgb(95, 95, 95);
     align-self: center;
     padding: 15px 0;
-    font-size: 3vh;
+    font-size: 6vh;
 }
 
 hr{
@@ -20,7 +20,7 @@ hr{
 }
 
 h2{
-    font-size: 3vh;
+    font-size: 5vh;
     color: rgb(41, 41, 41);
     padding: 15px 0;
     align-self: center;
@@ -40,7 +40,8 @@ body{
 }
 
 .task-item p{
-    flex-grow: 1
+    flex-grow: 1;
+    font-size: 5vh;
 }
 
 .task-item label{
