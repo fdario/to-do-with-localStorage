@@ -135,4 +135,7 @@ label {
         margin: 30px auto;
         width: 80%;
     }
+    .new-task input{
+        width: 5vw;
+    }
 }
